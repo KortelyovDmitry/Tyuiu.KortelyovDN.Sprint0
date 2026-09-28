@@ -1,6 +1,7 @@
 ﻿using Tyuiu.KortelyovDN.Sprint0.Task6.V0.Lib;
 namespace Tyuiu.KortelyovDN.Sprint0.Task6.V0
 {
+ //l
     internal class Program
     {
         static void Main(string[] args)
